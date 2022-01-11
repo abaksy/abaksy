@@ -14,7 +14,7 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/GoLang-40E0D0?style=for-the-badge&logo=go&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Matlab-0790C0?style=for-the-badge&logo=octave&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a
 
 ## 🧰 Libraries and Frameworks
