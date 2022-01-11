@@ -2,6 +2,6 @@
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
 <p align="left">I'm Aronya Baksy</p>
-<p align
+<p align="left">A final-year student of Computer Science and Engineering at PES University</p>
 <img src="https://github-readme-stats.vercel.app/api?username=abaksy&theme=gruvbox&show_icons=true">
 
