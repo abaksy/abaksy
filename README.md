@@ -11,7 +11,7 @@
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/GoLang-00599C?style=for-the-badge&logo=go&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/GoLang-40E0D0?style=for-the-badge&logo=go&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
@@ -20,10 +20,10 @@
 ## 🧰 Libraries and Frameworks
 <a href=""><img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/PyTorch-00599C?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/PyTorch-FFA500?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/CUDA-00599C?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/CUDA-00FF00?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
 
 ## 🔧 Tools
 <a href=""><img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
@@ -32,7 +32,7 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/kdenlive-DEAA88?style=for-the-badge&logo=kdenlive&logoColor=white" /></a>
 
 
 ## ☎️ Contact me 
