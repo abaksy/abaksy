@@ -10,7 +10,8 @@
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/GoLang-00599C?style=for-the-badge&logo=go&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
