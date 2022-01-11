@@ -1,17 +1,12 @@
-### Hi there, I'm Aronya <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
+# Hi there, I'm Aronya <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
-<p align="left">📚 A final-year student of Computer Science and Engineering at PES University</p>
+<p align="left">📚 A final-year B.Tech student of Computer Science and Engineering at PES University, Bengaluru, India </p>
 <p align="left">📈 Machine Learning, Data Analytics and Natural Language Processing</p>
-<p align="left">👨‍💻 Learning about systems programming and computer architecture</p>
+<p align="left">👨‍💻 Learning about system programming and computer architecture</p>
 <p align="left">🎸 Self-taught guitarist and Indian classical Vocalist </p>
 
 ![Aronya's github stats](https://github-readme-stats.vercel.app/api?username=abaksy&theme=gruvbox&show_icons=true&hide=["issues"])
-
-
-# Hello, I am Aditeya Baral <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-
-I'm a Computer Science Senior pursuing my B.Tech from PES University, India. A self-taught, passionate software developer interested in the field of Machine Learning and AI with a knack for Natural Language Processing.
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
