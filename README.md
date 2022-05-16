@@ -1,6 +1,6 @@
 # Hi there, I'm Aronya <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-<img align="left" src="https://github.com/anathayna/anathayna/blob/master/assets/pusheencode.gif"/>
+<img align="left" src="assets/pusheencode.gif"/>
 <p align="left">📚 A final-year B.Tech student of Computer Science and Engineering at PES University, Bengaluru, India </p>
 <p align="left">💻 R&D Intern at Hewlett Packard Enterprise, Bengaluru, India </p>
 <p align="left">📈 Machine Learning, Data Analytics and Natural Language Processing</p>
