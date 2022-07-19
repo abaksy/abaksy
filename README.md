@@ -3,7 +3,7 @@
 <img align="left" src="assets/pusheencode.gif"/>
 <p align="left">💻 SDE at Hewlett Packard Enterprise, Bengaluru, India </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering at PES University, Bengaluru, India </p>
-<p align="left">👨‍💻 Learning about system programming, cloud computing and computer architecture</p>
+<p align="left">👨‍💻 Learning about cloud-native architecture and distributed systems</p>
 <p align="left">🎸 Self-taught guitarist and Indian classical Vocalist </p>
 
 ![Aronya's github stats](https://github-readme-stats.vercel.app/api?username=abaksy&theme=gruvbox&show_icons=true&hide=["issues"])
