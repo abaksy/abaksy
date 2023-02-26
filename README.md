@@ -1,7 +1,7 @@
 # Hi there, I'm Aronya <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <img align="left" src="assets/pusheencode.gif"/>
-<p align="left">💻 SDE at Hewlett Packard Enterprise, Bengaluru, India </p>
+<p align="left">💻 Cloud Developer at Hewlett Packard Enterprise, Bengaluru, India </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering at PES University, Bengaluru, India </p>
 <p align="left">👨‍💻 Learning about cloud-native architecture and distributed systems</p>
 <p align="left">🎸 Self-taught guitarist and Indian classical Vocalist </p>
