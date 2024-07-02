@@ -11,20 +11,13 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/GoLang-40E0D0?style=for-the-badge&logo=go&logoColor=white" /></a>
+
+## 🧰 Frameworks
 <a href=""><img alt="" src="https://img.shields.io/badge/Aws-a85c32?style=for-the-badge&logo=amazon&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Kubernetes-41465D?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Docker-328da8?style=for-the-badge&logo=docker&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Helm-5232a8?style=for-the-badge&logo=helm&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Jfrog-32a832?style=for-the-badge&logo=jfrog&logoColor=white" /></a>
-
-
-## 🧰 Libraries and Frameworks
-<a href=""><img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/PyTorch-FFA500?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/CUDA-00FF00?style=for-the-badge&logo=nvidia&logoColor=white" /></a>
 
 ## 🔧 Tools
 <a href=""><img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
