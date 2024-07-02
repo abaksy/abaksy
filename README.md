@@ -1,6 +1,7 @@
 # Hi there, I'm Aronya <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <img align="left" src="assets/pusheencode.gif"/>
+<p align="left">📚 Incoming MS CS student at UCSD </p>
 <p align="left">💻 Cloud Developer at Hewlett Packard Enterprise, Bengaluru, India </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering at PES University, Bengaluru, India </p>
 <p align="left">👨‍💻 Learning about cloud-native architecture and distributed systems</p>
@@ -10,10 +11,12 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/GoLang-40E0D0?style=for-the-badge&logo=go&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Matlab-0790C0?style=for-the-badge&logo=octave&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Aws-a85c32?style=for-the-badge&logo=amazon&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Kubernetes-41465D?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Docker-328da8?style=for-the-badge&logo=docker&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Helm-5232a8?style=for-the-badge&logo=helm&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Jfrog-32a832?style=for-the-badge&logo=jfrog&logoColor=white" /></a>
+
 
 ## 🧰 Libraries and Frameworks
 <a href=""><img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
