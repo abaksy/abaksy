@@ -1,11 +1,11 @@
 # Hi there, I'm Aronya <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <img align="left" src="assets/pusheencode.gif"/>
-<p align="left">📚 Incoming MS CS student at UCSD </p>
-<p align="left">💻 Cloud Developer at Hewlett Packard Enterprise, Bengaluru, India </p>
+<p align="left">📚 Incoming MS CS student at UC San Diego </p>
+<p align="left">💻 Cloud Developer I at Hewlett Packard Enterprise, Bengaluru, India (2022-24) </p>
 <p align="left">📚 B.Tech in Computer Science and Engineering at PES University, Bengaluru, India </p>
 <p align="left">👨‍💻 Learning about cloud-native architecture and distributed systems</p>
-<p align="left">🎸 Self-taught guitarist and Indian classical Vocalist </p>
+<p align="left">🎸 Self-taught guitarist and Indian classical singer </p>
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
