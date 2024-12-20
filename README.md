@@ -7,17 +7,20 @@
 <p align="left">👨‍💻 Learning about cloud-native architecture and distributed systems</p>
 <p align="left">🎸 Self-taught guitarist and Indian classical singer </p>
 
-## 👨‍💻 Languages
-<a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
+## 💻 Languages
+<a href=""><img alt="" src="https://img.shields.io/badge/Python-FCD12A?style=for-the-badge&logo=python&logoColor=blue" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/GoLang-40E0D0?style=for-the-badge&logo=go&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/GoLang-3AD2FF?style=for-the-badge&logo=go&logoColor=black" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Rust-FF0000?style=for-the-badge&logo=rust&logoColor=white" /></a>
 
-## Stuff I've worked on/am working on
+## 👨‍💻 Some of my projects
+- CalBERT - Code-mixed Adaptive Language representations using BERT, published at AAAI-MAKE 2022 [here](https://github.com/abaksy/calbert)
+- Sentiment analysis and topic modelling tasks tasks on press releases scraped from the US Securities and Exchange Commission's website [here](https://github.com/abaksy/sec-analysis)
+- 
 - Implementing an M:N user-space threading library that schedules waiting user threads onto a fixed no. of kernel threads (like Goroutines!) <a href="https://github.com/abaksy/gocpparallel">here</a>
 - My implementation of the Bitcask database in pure Python! <a href="https://github.com/abaksy/pycask">here</a>
 - A VS Code extension I wrote for the Bhailang programming language 😆 <a href="https://github.com/abaksy/bhailang-vscode">here</a> (with 1000+ installs on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AronyaBaksy.bhailang) !)
 - A basic **version control** system for text files built in Python using Dropbox as backing storage that allows collaborative editing! [here](https://github.com/abaksy/togepi)
-- Sentiment analysis and topic modelling tasks tasks on press releases scraped from the US Securites and Exchange Commission's website [here](https://github.com/abaksy/sec-analysis)
 
 
 ## 🧰 Frameworks and Tools
