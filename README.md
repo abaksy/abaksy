@@ -12,6 +12,14 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/GoLang-40E0D0?style=for-the-badge&logo=go&logoColor=white" /></a>
 
+## Stuff I've worked on/am working on
+- Implementing an M:N user-space threading library that schedules waiting user threads onto a fixed no. of kernel threads (like Goroutines!) <a href="https://github.com/abaksy/gocpparallel">here</a>
+- My implementation of the Bitcask database in pure Python! <a href="https://github.com/abaksy/pycask">here</a>
+- A VS Code extension I wrote for the Bhailang programming language 😆 <a href="https://github.com/abaksy/bhailang-vscode">here</a> (with 1000+ installs on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AronyaBaksy.bhailang) !)
+- A basic **version control** system for text files built in Python using Dropbox as backing storage that allows collaborative editing! [here](https://github.com/abaksy/togepi)
+- Sentiment analysis and topic modelling tasks tasks on press releases scraped from the US Securites and Exchange Commission's website [here](https://github.com/abaksy/sec-analysis)
+
+
 ## 🧰 Frameworks and Tools
 <a href=""><img alt="" src="https://img.shields.io/badge/Aws-a85c32?style=for-the-badge&logo=amazon&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Kubernetes-41465D?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
