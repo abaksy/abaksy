@@ -16,7 +16,6 @@
 ## 👨‍💻 Some of my projects
 - CalBERT - Code-mixed Adaptive Language representations using BERT, published at AAAI-MAKE 2022 [here](https://github.com/abaksy/calbert)
 - Sentiment analysis and topic modelling tasks tasks on press releases scraped from the US Securities and Exchange Commission's website [here](https://github.com/abaksy/sec-analysis)
-- 
 - Implementing an M:N user-space threading library that schedules waiting user threads onto a fixed no. of kernel threads (like Goroutines!) <a href="https://github.com/abaksy/gocpparallel">here</a>
 - My implementation of the Bitcask database in pure Python! <a href="https://github.com/abaksy/pycask">here</a>
 - A VS Code extension I wrote for the Bhailang programming language 😆 <a href="https://github.com/abaksy/bhailang-vscode">here</a> (with 1000+ installs on the [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=AronyaBaksy.bhailang) !)
